@@ -22,7 +22,6 @@ do curso de Banco De Dados na FATEC de São José dos Campos, para a empresa xxx
 |__Juliana Francisco__| *Development Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/juliana-osss)      | [![](https://bit.ly/2P1ZogM)
 
 |__Murilo Brissi__| *Scrum Master* | [![](https://bit.ly/3f9Xo0P)](https://github.com/Murilobss)      | [![](https://bit.ly/2P1ZogM)
-https://www.linkedin.com/in/murilo-brissi-046326232/
 
 |__Roberto Tsushima__| *Development Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/Roberto-tsushima)      | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/roberto-shoiti-tsushima-junior-71318a240/) |
 
@@ -34,7 +33,7 @@ https://www.linkedin.com/in/murilo-brissi-046326232/
 
 ## 👨‍🏫 Disciplinas Integradas:
 
--Laboratório de Desenvolvimento em Banco de Dados 2 - Professora: Adriana da Silva Jacinto
+- Laboratório de Desenvolvimento em Banco de Dados 2 - Professora: Adriana da Silva Jacinto
 - Linguagem de programação 1 - Professora: Adriana da Silva Jacinto
 - Arquitetura e Modelagem de Banco de Dados - Professor: Emanuel Mineda Carneiro
 
@@ -70,7 +69,7 @@ Aguardando kick-off
 
 
 ## ⏳ Entregas
-- [] [**Kick-Off**] - 13/02 á 03/03 
+- [] [**Kick-Off**] - 13/02 à 03/03 
 - [] [**Sprint 1**] - 13/03/2023 a 02/04/2023 
 - [] [**Sprint 2**) - 03/04/2023 a 14/05/2023 
 - [] [**Sprint 3**] - 24/04/2023 a 14/05/2023
