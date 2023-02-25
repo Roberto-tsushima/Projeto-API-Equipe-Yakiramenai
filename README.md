@@ -21,6 +21,8 @@ do curso de Banco De Dados na FATEC de São José dos Campos, para a empresa xxx
 
 |__Roberto Tsushima__| *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/Roberto-tsushima)      | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/roberto-shoiti-tsushima-junior-71318a240/) |
 
+https://www.linkedin.com/in/murilo-brissi-046326232/
+
 
 
 
