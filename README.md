@@ -37,7 +37,7 @@ https://www.linkedin.com/in/murilo-brissi-046326232/
 
 -Laboratório de Desenvolvimento em Banco de Dados 2 - Professora: Adriana da Silva Jacinto
 - Linguagem de programação 1 - Professora: Adriana da Silva Jacinto
-- Arquitetura e Modelagem de Banco de Dados - Professor: Manuel Mineda Carneiro
+- Arquitetura e Modelagem de Banco de Dados - Professor: Emanuel Mineda Carneiro
 
 ## 🎯 Objetivo
 Aguardando kick-off
@@ -74,8 +74,8 @@ Aguardando kick-off
 - [] [**Kick-Off**] - 13/02 á 03/03 
 - [] [**Sprint 1**] - 13/03/2023 a 02/04/2023 
 - [] [**Sprint 2**) - 03/04/2023 a 14/05/2023 
-- [ ] [**Sprint 3**] - 24/04/2023 a 14/05/2023
-- [ ] [**Sprint 4**] - 15/05/2023 a 14/06/2023
+- [] [**Sprint 3**] - 24/04/2023 a 14/05/2023
+- [] [**Sprint 4**] - 15/05/2023 a 14/06/2023
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
