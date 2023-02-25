@@ -23,6 +23,8 @@ do curso de Banco De Dados na FATEC de São José dos Campos, para a empresa xxx
 
 https://www.linkedin.com/in/murilo-brissi-046326232/
 
+https://www.linkedin.com/in/juliana-francisco-433a4492/
+
 
 
 
