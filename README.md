@@ -17,13 +17,17 @@ do curso de Banco De Dados na FATEC de São José dos Campos, para a empresa xxx
 | Aluno            | Função           | GitHub                                                         | LinkedIn                                              |
 | ---------------- | ---------------- | -------------------------------------------------------------- | ----------------------------------------------------- |
 
-|__Caio Costa Santos__  |  *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/Caio-eng-gif)| [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/caio-costa-santos-7a7277195) |
+|__Caio Costa Santos__  |  *Product Owner* | [![](https://bit.ly/3f9Xo0P)](https://github.com/Caio-eng-gif)| [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/caio-costa-santos-7a7277195) |
 
-|__Roberto Tsushima__| *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/Roberto-tsushima)      | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/roberto-shoiti-tsushima-junior-71318a240/) |
+|__Juliana Francisco__| *Development Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/juliana-osss)      | [![](https://bit.ly/2P1ZogM)
+https://www.linkedin.com/in/juliana-francisco-433a4492/
 
+|__Murilo Brissi__| *Scrum Master* | [![](https://bit.ly/3f9Xo0P)](https://github.com/Murilobss)      | [![](https://bit.ly/2P1ZogM)
 https://www.linkedin.com/in/murilo-brissi-046326232/
 
-https://www.linkedin.com/in/juliana-francisco-433a4492/
+|__Roberto Tsushima__| *Development Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/Roberto-tsushima)      | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/roberto-shoiti-tsushima-junior-71318a240/) |
+
+
 
 
 
@@ -31,29 +35,16 @@ https://www.linkedin.com/in/juliana-francisco-433a4492/
 
 ## 👨‍🏫 Disciplinas Integradas:
 
-- Arquitetura e Organização De Computadores - Professor
-- Algoritmos - Professor Lucas Nadalete
-- Laboratório De Desenvolvimento Em Banco De Dados - Professor
+-Laboratório de Desenvolvimento em Banco de Dados 2 - Professora: Adriana da Silva Jacinto
+- Linguagem de programação 1 - Professora: Adriana da Silva Jacinto
+- Arquitetura e Modelagem de Banco de Dados - Professor: Manuel Mineda Carneiro
 
 ## 🎯 Objetivo
-Desenvolver uma aplicação para Avaliação Democratizada, porém incluindo uma avaliação técnica adicional feita pelo Líder do Grupo e uma avaliação de produto/negócio realizada pelo Fake Client.
- - Deve possuir um controle de usuários mínimo;
- - Deve possuir um controle de perfis (instrutores e integrantes do time);
- - Deve possuir um controle de Times;
- - Deve possuir um controle de Sprints, representando os ciclos de desenvolvimento a
-partir do qual cada integrante será avaliado;
- - Deve possibilitar a realização, por um determinado integrante do Time, da avaliação
-dos demais integrantes, incluindo a sí próprio, de forma individualizada.
-- Deve possibilitar a realização das seguintes avaliações adicionais:
-  - Instrutor Líder do Grupo avaliando o aluno Líder Técnico do Time
-  - Instrutor Fake Client avaliando o aluno PO do Time
-- Deve prover um ou mais Dashboards de acompanhamento
+Aguardando kick-off
 
 ## 💬 Descritivo do Projeto
 
-Para a empresa PBLTeX , que deseja realizar suas avaliações democraticas, recebendo os dados  
-em um dashboard, de forma ágil e simples. 
-
+Aguardando kick-off
 ## 🛠️ Ferramentas/Tecnologias
 
 * ### __Front-End__
@@ -80,11 +71,11 @@ em um dashboard, de forma ágil e simples.
 
 
 ## ⏳ Entregas
-- [X] [**Kick-Off**] - 15/08/2022 a 19/08/2022 ✅
-- [X] [**Sprint 1**](https://github.com/laroyprado/Projeto-API-Equipe-First/tree/Sprint-1) - 29/08/2022 a 18/09/2022 ✅
-- [X] [**Sprint 2**](https://github.com/laroyprado/Projeto-API-Equipe-First/tree/Sprint-2) - 19/09/2022 a 09/10/2022 ✅
-- [ ] [**Sprint 3**] - 17/10/2022 a 06/11/2022
-- [ ] [**Sprint 4**] - 07/11/2022 a 27/11/2022
+- [] [**Kick-Off**] - 13/02 á 03/03 
+- [] [**Sprint 1**] - 13/03/2023 a 02/04/2023 
+- [] [**Sprint 2**) - 03/04/2023 a 14/05/2023 
+- [ ] [**Sprint 3**] - 24/04/2023 a 14/05/2023
+- [ ] [**Sprint 4**] - 15/05/2023 a 14/06/2023
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
