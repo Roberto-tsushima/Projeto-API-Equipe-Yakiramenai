@@ -27,7 +27,7 @@ do curso de Banco De Dados na FATEC de São José dos Campos, para a empresa xxx
 
 ## 👨‍🏫 Disciplinas Integradas:
 
-- Arquitetura e Organização De Computadores - Professor Fabiano Sabha
+- Arquitetura e Organização De Computadores - Professor
 - Algoritmos - Professor Lucas Nadalete
 - Laboratório De Desenvolvimento Em Banco De Dados - Professor
 
